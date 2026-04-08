@@ -2,7 +2,7 @@
 title: Crypto Trader OpenEnv
 emoji: 💰
 colorFrom: green
-colorTo: teal
+colorTo: red
 sdk: docker
 pinned: false
 license: mit
