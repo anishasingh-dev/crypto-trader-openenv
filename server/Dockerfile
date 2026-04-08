@@ -20,4 +20,4 @@ COPY . .
 EXPOSE 7860
 
 # Default command to run your app (FastAPI)
-CMD ["python", "server/app.py"]
+CMD ["python", "app.py"]
