@@ -1,0 +1,15 @@
+name: crypto-trader-v1
+description: A real-world RL environment for LLM-based crypto trading agents.
+entrypoint: server.app:app
+license: mit
+authors:
+  - name: Anisha Singh
+    contact: anisha@example.com
+    role: maintainer
+tags:
+  - crypto
+  - trading
+  - finance
+  - openenv
+  - RL
+version: "1.0.0"
